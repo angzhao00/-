@@ -1,0 +1,42 @@
+{
+  "notebooks": [
+    {
+      "id": "default-notebook",
+      "name": "📋 我的工作日报 (Daily Reports)",
+      "sections": [
+        {
+          "id": "default-section",
+          "name": "2026年6月",
+          "pages": [
+            {
+              "id": "default-page",
+              "title": "今日工作日报",
+              "date": "2026-06-01",
+              "mood": "😊",
+              "weather": "☀️",
+              "tags": [
+                "Work",
+                "Summary"
+              ],
+              "content": "# 今日工作日报\n\n## 今日工作成果\n- 完成了 OneNote 系统的核心模块\n- 配置了本地 Python 存储服务\n\n## 明日工作计划\n- 运行系统并开始记录日报\n\n## 难点与协助\n- 暂无",
+              "updatedAt": "2026-06-01T12:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "theme": "light",
+    "syncMode": "github",
+    "github": {
+      "token": "",
+      "repo": "angzhao00/-",
+      "branch": "main",
+      "path": "notes.json"
+    },
+    "webdav": {
+      "password": ""
+    }
+  }
+}
